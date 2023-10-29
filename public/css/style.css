@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+ul {
+    list-style: none;
+}
+
+* body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.header{
+    background-color: #EAC926;
+}
+
+.navegator{
+    background-color: #EAC926;
+}
+
+.titular{
+    font-size: 24px;
+}
+
+.precio{
+    font-size: 18px;
+}
+
+.descuentos{
+    font-size: 16px;
+}
+
+.descripcion{
+    font-size: 16px;
+}
+
+.footer{
+    text-align: center;
+}
+
+.pieicon{
+    color: #1259c3;
+    margin: 10px;
+    font-size: 2em;
+
+}
+
+.pietexto{
+    color: #666;
+}
+
+.piecopy{
+    color: #ebebeb;
+}
